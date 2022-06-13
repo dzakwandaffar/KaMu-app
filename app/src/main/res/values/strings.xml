@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Patungan</string>
+    <string name="started_title">Halo, Gan!</string>
+    <string name="started_sub_title">
+        Selamat datang di Patungin!
+        <br><b>Sign in</b>  Jika sudah punya akun</br>
+        <br><b>Sign Up</b>  Untuk mendaftar akun baru</br>
+    </string>
+    <string name="illustration_img">Illustration Image</string>
+    <string name="btn_sign_up">SIGN UP</string>
+    <string name="btn_sign_in">SIGN IN</string>
+    <string name="sign_in_title">Silahkan Sign In</string>
+    <string name="sign_in_sub_title">
+        <font color="#00C9B8"><b>Sign In</b></font>
+        Jika sudah mempunyai akun.
+    </string>
+    <string name="sign_in_email">Masukkan Email atau Username</string>
+    <string name="sign_in_password">Masukkan Password</string>
+    <string name="sign_in_lupa">Lupa Password?</string>
+    <string name="sign_in_tidak_punya_akun">
+        Saya belum mempunyai akun. <font color="#00C9B8"><b>Sign Up</b></font>
+    </string>
+    <string name="sign_up_title">Buat Akun Anda</string>
+    <string name="sign_up_sub_title">
+        <font color="#00C9B8"><b>Sign Up</b></font>
+        Daftarkan Diri Anda pada Kolom di Bawah.
+    </string>
+    <string name="sign_up_nama_lengkap">Masukkan Nama Lengkap Anda</string>
+    <string name="sign_up_email">Masukkan Email Anda</string>
+    <string name="sign_up_username">Masukkan Username Anda</string>
+    <string name="sign_up_password">Masukkan Password</string>
+    <string name="sign_up_ulang_password">Masukkan Ulang Password</string>
+    <string name="sign_up_punya_akun">
+        Saya sudah mempunyai akun. <font color="#00C9B8"><b>Sign In</b></font>
+    </string>
+    <string name="home_halo">Halo!</string>
+    <string name="home_selamat_datang">Selamat Datang!</string>
+    <string name="btn_sign_out">SIGN OUT</string>
+</resources>
