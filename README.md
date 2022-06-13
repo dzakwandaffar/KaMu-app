@@ -1,4 +1,4 @@
-# KaMu-app
+# Patungan-app
 
 # For Machine Learning and Cloud Computing in Branch 1 (main)
 
